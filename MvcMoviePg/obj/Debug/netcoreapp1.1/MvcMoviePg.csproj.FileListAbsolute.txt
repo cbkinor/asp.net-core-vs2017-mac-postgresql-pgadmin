@@ -1,0 +1,10 @@
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/bin/Debug/netcoreapp1.1/MvcMoviePg.deps.json
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/bin/Debug/netcoreapp1.1/MvcMoviePg.runtimeconfig.json
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/bin/Debug/netcoreapp1.1/MvcMoviePg.runtimeconfig.dev.json
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/bin/Debug/netcoreapp1.1/MvcMoviePg.dll
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/bin/Debug/netcoreapp1.1/MvcMoviePg.pdb
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.csprojResolveAssemblyReference.cache
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.csproj.CoreCompileInputs.cache
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.AssemblyInfo.cs
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.dll
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.pdb
