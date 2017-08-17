@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{2983AB72-DAB3-4D33-864D-EED7553495AC}|Default">
   <MonoDevelop.Ide.ItemProperties.MvcMoviePg PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMoviePg/MvcMoviePg.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMoviePg/Startup.cs">
     <Files>
-      <File FileName="MvcMoviePg/Controllers/HelloWorldController.cs" Line="28" Column="4" />
-      <File FileName="MvcMoviePg/Startup.cs" Line="1" Column="1" />
-      <File FileName="MvcMoviePg/Views/HelloWorld/Welcome.cshtml" Line="12" Column="6" />
-      <File FileName="MvcMoviePg/Models/Movie.cs" Line="11" Column="3" />
       <File FileName="MvcMoviePg/MvcMoviePg.csproj" Line="1" Column="1" />
+      <File FileName="MvcMoviePg/Models/MvcMovieContext.cs" Line="16" Column="2" />
+      <File FileName="MvcMoviePg/appsettings.json" Line="1" Column="1" />
+      <File FileName="MvcMoviePg/Startup.cs" Line="36" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
