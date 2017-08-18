@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{2983AB72-DAB3-4D33-864D-EED7553495AC}|Default">
   <MonoDevelop.Ide.ItemProperties.MvcMoviePg PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMoviePg/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMoviePg/Views/Movies/Edit.cshtml">
     <Files>
       <File FileName="MvcMoviePg/Startup.cs" Line="64" Column="58" />
       <File FileName="MvcMoviePg/Models/DBinitialize.cs" Line="12" Column="44" />
       <File FileName="MvcMoviePg/Models/SeedData.cs" Line="16" Column="25" />
-      <File FileName="MvcMoviePg/Models/Movie.cs" Line="11" Column="8" />
+      <File FileName="MvcMoviePg/Models/Movie.cs" Line="16" Column="43" />
       <File FileName="MvcMoviePg/Controllers/HomeController.cs" Line="14" Column="10" />
       <File FileName="MvcMoviePg/Controllers/HelloWorldController.cs" Line="28" Column="4" />
-      <File FileName="MvcMoviePg/Controllers/MoviesController.cs" Line="44" Column="45" />
-      <File FileName="MvcMoviePg/Views/Movies/Index.cshtml" Line="12" Column="50" />
+      <File FileName="MvcMoviePg/Controllers/MoviesController.cs" Line="80" Column="95" />
+      <File FileName="MvcMoviePg/Views/Movies/Index.cshtml" Line="60" Column="16" />
       <File FileName="MvcMoviePg/Models/MovieGenreViewModel.cs" Line="10" Column="14" />
+      <File FileName="MvcMoviePg/Views/Movies/Create.cshtml" Line="47" Column="19" />
+      <File FileName="MvcMoviePg/Views/Movies/Details.cshtml" Line="41" Column="51" />
+      <File FileName="MvcMoviePg/Views/Movies/Delete.cshtml" Line="43" Column="51" />
+      <File FileName="MvcMoviePg/Views/Movies/Edit.cshtml" Line="42" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
