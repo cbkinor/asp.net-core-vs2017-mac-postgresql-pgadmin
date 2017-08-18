@@ -7,3 +7,4 @@
 /Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.AssemblyInfo.cs
 /Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.dll
 /Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.pdb
+/Users/ckuiper/Projects/MvcMoviePg/MvcMoviePg/obj/Debug/netcoreapp1.1/MvcMoviePg.csproj.CoreCompileInputs.cache
