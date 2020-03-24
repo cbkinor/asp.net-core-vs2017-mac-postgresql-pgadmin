@@ -8,8 +8,6 @@
 * [Getting started with ASP.NET Core MVC and Visual Studio for Mac](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/start-mvc)
     - By: Rick Anderson
 
-#### Completed by: Chris Kuiper
-
 ## Description
 
 This tutorial creates a movie web app using asp.net core, postgreSql, pgAdmin, Entity Framework Code First, Migrations and Scaffolding using Visual Studio 2017 Community for mac.
@@ -39,5 +37,3 @@ If any contact is needed you can reach me at my email at cbkinor@gmail.com
 ### License
 
 *This software is licensed under the MIT license.*
-
-2017 **By Chris Kuiper**
